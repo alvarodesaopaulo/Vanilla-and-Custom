@@ -1,0 +1,46 @@
+Non-[ Custom ] mods enabled in Vanilla (+) but disabled in Custom (-)
+
+Total: 42
+
+Add-on - stock Atmospherics (no RC7)
+3 - DLSS-FSR3 Compat Patch remerged (0.71)
+335- Auto-Stacking Items - Zatura
+G.A.M.M.A. Accurate Defense Values
+G.A.M.M.A. Unjam Reload on the same key
+Oleh's Miscellaneous Sound Improvements
+Oleh's Extended MovementSFX
+Oleh's Weapons Sounds Tweaks and Fixes
+G.A.M.M.A. Vices are free
+G.A.M.M.A. NPCs Faster Reactions
+G.A.M.M.A. AI Rework
+xcvb's Guards Spawner
+LSZ AI Tweaks
+Burn's Optimised World Models
+G.A.M.M.A. MCM values - Rename to keep your personal changes
+G.A.M.M.A. ZCP 1.4 Balanced Spawns
+G.A.M.M.A. No NPC Friendly Fire
+G.A.M.M.A. No Masks Textures
+G.A.M.M.A. Skill System Balance
+G.A.M.M.A. Sin and Mutants are Allies
+G.A.M.M.A. Mutants Overhaul
+G.A.M.M.A. Miracle Machine Remake
+G.A.M.M.A. NPC Loot Claim Remade
+480- Squad Filler - xcvb
+462- Procedural Movement Animations - party_50
+453- Items Model Drop After Usage - Kute
+Yet Another Knife Reanimation - lizzardman
+328- Higher Rank NPCs Headlight Disabled - KraizerX
+276- Dark Signal Mutants Audio - Shrike
+248- Night Mutants - xcvb
+234- Dynamic Anomalies Overhaul - Demonized
+226- Display Campfires on Map - Maid
+452- Interaction Dot Marks - Catspaw
+311- NPC Stop Looting Dead Bodies - DTTheGunslinger
+175- Battery Warning - RavenAscendant
+161- Improved player and NPCs ranks (longer for player, faster for companions) - mandothreesixtee
+156- No Exos in the South - Grokitach
+95- Doom-like weapon inspection - Grokitach
+49- Skill System - Haruka
+39- RemadeAnimations - ChadSTALKEREnjoyer
+18- Ambient Music Pack - Wojach
+3- Soundscape Overhaul - Solarint
